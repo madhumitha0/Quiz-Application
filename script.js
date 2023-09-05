@@ -24,7 +24,7 @@ let questions = [
   },
     {
     numb: 3,
-    question: "WWhich river is the longest in the world?",
+    question: "Which river is the longest in the world?",
     answer: "Nile River",
     options: [
       "Nile River",
